@@ -7,3 +7,6 @@
 [submodule "web/hash-based-spa"]
 	path = web/hash-based-spa
 	url = https://github.com/build-your-own-everything/hash-based-spa.git
+[submodule "web/unix-socket-webserver"]
+	path = web/unix-socket-webserver
+	url = https://github.com/build-your-own-everything/unix-socket-webserver
