@@ -7,10 +7,14 @@ convenient to live in a top floor apartment, while everything below is abstracte
 this has been the cause of many terrible software decisions and terrible tools being distributed, and 
 much pain in the userspace.
 
-"What I cannot create, I do not understand" – Richard Feynman
+> "What I cannot create, I do not understand" – Richard Feynman
 
 ## Table of Contents
 - [Data Structures](#data-structures)
+- [CLI](#cli)
 
 ## Data Structures
 - [Hahstable](https://github.com/szuhaydv/hashtable)
+
+## CLI 
+- [Rust coreutils](https://github.com/szuhaydv/rust-coreutils)
