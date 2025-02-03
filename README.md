@@ -12,9 +12,14 @@ much pain in the userspace.
 ## Table of Contents
 - [Data Structures](#data-structures)
 - [CLI](#cli)
+- [Web](#web)
 
 ## Data Structures
-- [Hahstable](https://github.com/szuhaydv/hashtable)
+- [Hahstable](https://github.com/build-your-own-everything/hashtable)
 
 ## CLI 
-- [Rust coreutils](https://github.com/szuhaydv/rust-coreutils)
+- [Rust coreutils](https://github.com/build-your-own-everything/rust-coreutils)
+
+## Web
+- [Webserver in C using Unix sockets API](https://github.com/build-your-own-everything/unix-socket-webserver)
+- [Hash-based SPA in Rust](https://github.com/build-your-own-everything/unix-socket-webserver)
