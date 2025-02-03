@@ -1,9 +1,9 @@
 [submodule "hashtable"]
 	path = hashtable
-	url = https://github.com/szuhaydv/hashtable.git
+	url = https://github.com/build-your-own-everything/hashtable.git
 [submodule "cli/rust-coreutils"]
 	path = cli/rust-coreutils
-	url = https://github.com/szuhaydv/rust-coreutils.git
+	url = https://github.com/build-your-own-everything/rust-coreutils.git
 [submodule "web/hash-based-spa"]
 	path = web/hash-based-spa
 	url = https://github.com/build-your-own-everything/hash-based-spa.git
