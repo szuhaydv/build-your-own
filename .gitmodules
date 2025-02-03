@@ -6,4 +6,4 @@
 	url = https://github.com/szuhaydv/rust-coreutils.git
 [submodule "web/hash-based-spa"]
 	path = web/hash-based-spa
-	url = /Users/davidszuhay/Programming/PC/rust/server
+	url = https://github.com/build-your-own-everything/hash-based-spa.git
