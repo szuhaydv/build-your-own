@@ -23,3 +23,4 @@ much pain in the userspace.
 ## Web
 - [Webserver in C using Unix sockets API](https://github.com/build-your-own-everything/unix-socket-webserver)
 - [Hash-based SPA in Rust](https://github.com/build-your-own-everything/unix-socket-webserver)
+- [SPA using History API](https://github.com/build-your-own-everything/history-api-spa)
