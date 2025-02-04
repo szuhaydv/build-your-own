@@ -10,3 +10,6 @@
 [submodule "web/unix-socket-webserver"]
 	path = web/unix-socket-webserver
 	url = https://github.com/build-your-own-everything/unix-socket-webserver
+[submodule "web/history-api-spa"]
+	path = web/history-api-spa
+	url = https://github.com/build-your-own-everything/history-api-spa.git
